@@ -1,0 +1,44 @@
+body{
+    background-color:rgba(128, 0, 128, 0.291);
+}
+
+.parrot, 
+.dog{
+    border-radius: 30px;
+}
+
+.dog{
+    width: 325px;
+    height: 200px;
+}
+
+.see{
+    color: purple;
+    font-size: 25px;
+}
+
+.all{
+    font-size: 15px;
+    font-style: italic;
+    color: rgba(0, 0, 0, 0.72);
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    border-radius: 30px;
+    background-color: plum;
+}
+
+.down{
+    margin-top: 100px;
+}
+
+.look{
+    color: teal;
+    font-size: 25px;
+}
+
+.whole{
+    background-color: rgba(0, 0, 255, 0.194);
+}
